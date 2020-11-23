@@ -80,7 +80,7 @@ replace var\s+(\w*) = new\s+(\w*)(<\w*>)? with $2$3 $1
 ```
 ### Problem 18: Replace operators with function calls
 ```
-hard
+too hard
 ```
 ### Problem 19: Extract query string from URL
 ```
